@@ -1,0 +1,20 @@
+# EditorConfig helps developers define and maintain consistent
+# coding styles between different editors and IDEs
+# editorconfig.org
+
+root = true
+# 
+
+[*]
+end_of_line = lf
+# type de fin de ligne
+charset = utf-8
+trim_trailing_whitespace = true
+# evite les espaces en fin de ligne
+insert_final_newline = true
+# il faut qu'à la fin des fichiers il y est une ligne vide 
+indent_style = space
+indent_size = 2
+
+[*.{diff,md}]
+trim_trailing_whitespace = false
