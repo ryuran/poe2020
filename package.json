@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/glukor/poe2020.git"
+    "url": "git+https://github.com/ryuran/poe2020.git"
   },
   "author": "clement",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/glukor/poe2020/issues"
+    "url": "https://github.com/ryuran/poe2020/issues"
   },
-  "homepage": "https://github.com/glukor/poe2020#readme"
+  "homepage": "https://github.com/ryuran/poe2020#readme"
 }
