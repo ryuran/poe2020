@@ -1,0 +1,24 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "Practice Webpack with exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vreymond/poe2020.git"
+  },
+  "keywords": [
+    "webpack",
+    "npm",
+    "exercise"
+  ],
+  "author": "vreymond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vreymond/poe2020/issues"
+  },
+  "homepage": "https://github.com/vreymond/poe2020#readme"
+}
