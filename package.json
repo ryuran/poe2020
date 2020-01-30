@@ -15,4 +15,10 @@
   "bugs": {
     "url": "https://github.com/ryuran/poe2020.git"
   },
-  "homepage": "https://github.com/ryuran/poe2020.git"
+  "homepage": "https://github.com/ryuran/poe2020.git",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
