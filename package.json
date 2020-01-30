@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vreymond/poe2020.git"
+    "url": "git+https://github.com/ryuran/poe2020.git"
   },
   "keywords": [
     "webpack",
