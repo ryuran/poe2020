@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manuscri95/poe2020-1.git"
+    "url": "git+https://github.com/ryuran/poe2020"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/manuscri95/poe2020-1/issues"
+    "url": "https://github.com/ryuran/poe2020/issues"
   },
-  "homepage": "https://github.com/manuscri95/poe2020-1#readme"
+  "homepage": "https://github.com/ryuran/poe2020#readme"
 }
