@@ -7,11 +7,20 @@ module.exports = {
   module: {
     rules: [
       {
+        test: /\.css$/,
+        use: [ 'style-loader', 'postcss-loader' ]
+      }
+    ]
+  },
+  module: {
+    rules: [
+      {
         test: /\.s[ac]ss$/i,
         use: [
           MiniCssExtractPlugin.loader,
           // Translates CSS into CommonJS
           "css-loader",
+          "postcss-loader",
           // Compiles Sass to CSS
           "sass-loader"
         ]
