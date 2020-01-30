@@ -4,7 +4,8 @@
   "description": "TP webpack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -15,4 +16,8 @@
   "bugs": {
     "url": "https://github.com/ryuran/poe2020.git"
   },
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
 }
